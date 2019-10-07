@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mshahXMLColorSwap</string>
+    <string name="edit_message">Tap to Change Color</string>
+    <string name="button_send">TAP ME!</string>
+</resources>
